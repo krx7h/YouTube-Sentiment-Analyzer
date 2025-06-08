@@ -23,5 +23,5 @@ A Python-based tool that performs sentiment analysis on YouTube video transcript
 
 ---
 
-## 📁 Project Structure
+
 
